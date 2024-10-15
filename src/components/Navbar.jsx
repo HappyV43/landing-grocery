@@ -5,7 +5,7 @@ const Navbar = () => {
         {/* Logo dan nama */}
         <a href="/" className="flex items-center relative z-10">
           <img
-            src="src/assets/Logo.png"
+            src={"/static/images/Logo.png"}
             alt="logo"
             className="w-32 h-30" // Ukuran logo yang lebih besar
           />

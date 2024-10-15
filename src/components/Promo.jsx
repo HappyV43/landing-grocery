@@ -8,8 +8,8 @@ const Promo = () => {
           Special Discount for New Customers!
         </h3>
         <p className="text-lg mb-6">
-          Get 20% off on your first purchase. Use code:{" "}
-          <span className="font-bold">GROCERY20</span>
+          Get 20% off on your first purchase. Use code:{""}
+          <span className="font-bold">BLJNM20</span>
         </p>
         <button className="bg-green-600 text-white px-8 py-3 rounded-full hover:bg-green-500 transition">
           Start Shopping

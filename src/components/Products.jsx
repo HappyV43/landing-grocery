@@ -4,19 +4,19 @@ import React from "react";
 const products = [
   {
     category: "Fruits",
-    image: "src/assets/fruits.jpg",
+    image: "static/images/fruits.jpg",
   },
   {
     category: "Vegetables",
-    image: "src/assets/vegetable.jpg",
+    image: "static/images/vegetable.jpg",
   },
   {
     category: "Dairy & Eggs",
-    image: "src/assets/egg.jpg",
+    image: "static/images/egg.jpg",
   },
   {
     category: "Beverages",
-    image: "src/assets/minum.jpg",
+    image: "static/images/minum.jpg",
   },
 ];
 

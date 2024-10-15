@@ -8,12 +8,12 @@ const Footer = () => {
           <h4 className="font-bold mb-4">About Us</h4>
           <p>
             We provide fresh and organic groceries directly to your door. Enjoy
-            healthy living with GroceryLand.
+            healthy living with Belanja Murah.
           </p>
         </div>
         <div>
           <h4 className="font-bold mb-4">Contact</h4>
-          <p>Email: support@groceryland.com</p>
+          <p>Email: support@belanja-murah.com</p>
           <p>Phone: (123) 456-7890</p>
         </div>
         <div>

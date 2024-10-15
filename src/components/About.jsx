@@ -14,7 +14,7 @@ const About = () => {
         {/* Gambar tentang */}
         <div className="w-full md:w-1/2">
           <img
-            src="src/assets/about.jpg"
+            src={"static/images/about.jpg"}
             alt="About Us"
             className="w-full h-96 object-cover rounded-lg"
           />

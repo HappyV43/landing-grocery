@@ -5,7 +5,7 @@ const Hero = () => {
         {/* Gambar hero */}
         <div className="w-full md:w-1/2 mb-10 md:mb-0">
           <img
-            src="src/assets/hero.jpg"
+            src={"/static/images/hero.jpg"}
             alt="Hero"
             className="w-full h-96 object-cover rounded-lg"
           />
