@@ -7,6 +7,7 @@ import Testimonials from "./components/Testimonials";
 import Promo from "./components/Promo";
 import About from "./components/About";
 import Hero from "./components/Hero.jsx";
+import TabSwitch from "./components/TabSwitch.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -14,6 +15,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <TabSwitch />
       <About />
       <Hero />
       <Promo />
